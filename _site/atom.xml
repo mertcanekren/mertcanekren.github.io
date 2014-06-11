@@ -4,13 +4,24 @@
  <title>The blog of Mertcan Ekren</title>
  <link href="http://mertcanekren.github.io/atom.xml" rel="self"/>
  <link href="http://mertcanekren.github.io"/>
- <updated>2014-05-26T22:55:16+03:00</updated>
+ <updated>2014-06-11T20:11:04+03:00</updated>
  <id>http://mertcanekren.github.io</id>
  <author>
    <name>Mertcan Ekren</name>
    <email>mertcanekren@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Rufin ( 11 Haziran 2014 )</title>
+   <link href="http://mertcanekren.github.io/blog/2014/06/11/rufin.html"/>
+   <updated>2014-06-11T00:00:00+03:00</updated>
+   <id>http://mertcanekren.github.io/blog/2014/06/11/rufin</id>
+   <content type="html">&lt;p&gt;Geliştirmekte olduğum proje yönetim sisteminin ilk versiyonu için planladığım özellikler bitmek üzere. Şuan için proje ekleme, düzenleme, proje talep işlemleri gibi bir çok planladığım olayları tamamladım. Bir kaç yeri daha düzenledikten sonra tahminimce 1 hafta için ilk versiyonunu çıkartmayı planlıyorum.&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Rufin ( 26 Mayıs 2014 )</title>
