@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Github Activity</title>
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/octicons/2.0.2/octicons.min.css">
+	<link rel="stylesheet" href="github-activity-0.1.0.min.css">
+	<script src="//code.jquery.com/jquery-1.11.0.js"></script>
+	<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
+	<script type="text/javascript" src="//caseyscarborough.github.io/github-activity/github-activity-0.1.0.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			GitHubActivity.feed({
+				username: "mertcanekren",
+				selector: "#feed",
+				limit: 20
+			})
+		});
+	</script>
+</head>
+<body>
+<div id="feed" style="width: 700px;height: 400px;"></div>
+</body>
+</html>

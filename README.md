@@ -1,7 +1,7 @@
-### [mertcanekren.github.io][blog]
+Mertcan Ekren Website on Github Pages
+======================================
 
-[Jekyll][j] ile [Lagom][theme] template yapısı kullanarak oluşturduğum blog. 
+<a href="http://mertcanekren.com">mertcanekren.com</a>
 
-[j]: http://jekyllrb.com/
-[theme]: http://jekyllthemes.org/themes/lagom/
-[blog]: http://mertcanekren.github.io
+## License
+MIT License.
