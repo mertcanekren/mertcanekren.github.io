@@ -1,9 +1,0 @@
----
-layout: post
-title: Google Web Designer
-date: 2013-10-03 22:40
-author: mertcan
-comments: true
-categories: [admob, adsense, DoubleClick, google, google adsense, google web designer, html5, html5 banner, Web, web designer]
----
-<div style="clear: both; text-align: center;"><a href="http://localhost:81/mew/wp-content/uploads/2013/10/logo6w.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="141" src="http://localhost:81/mew/wp-content/uploads/2013/10/logo6w-300x105.png" width="400" /></a></div><br /><br />Google 30 Eylül tarihinde <a href="http://doubleclickadvertisers.blogspot.com/2013/09/google-web-designer-beta-now-available.html" target="_blank">duyurduğu</a>&nbsp;<a href="http://www.google.com/webdesigner/" target="_blank">Google Web Designer</a>&nbsp;HTML5 olarak reklam hazırlamayı biraz daha kolay hale getiriyor.<br /><br />Şuan beta versiyonu indirilmeye sunulan designer ile hareketli reklamlar hazırlamak mümkün. Arayüzü tasarım ve kod alanlarına geçiş sekmelerinden dolayı bana biraz <a href="http://www.adobe.com/tr/products/dreamweaver.html" target="_blank">Dreamwear</a>'ı andırıyor açıkçası. Programın tamamen Türkçe dil desteği mevcut.<br /><br />Programı <a href="http://www.google.com/webdesigner/" target="_blank">buradan</a>&nbsp;indirebilirsiniz.<br />Dmkümantasyon&nbsp;<a href="https://support.google.com/webdesigner/#topic=3178270" target="_blank">https://support.google.com/webdesigner/#topic=3178270</a><br />YouTube üzerinde kalanı mevcut.&nbsp;<a href="http://www.youtube.com/user/GoogleWebDesigner" target="_blank">http://www.youtube.com/user/GoogleWebDesigner</a><br /><br />Demo<br /><br /><div style="clear: both; text-align: center;"><iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/kHj7fqbNaQw" width="520"></iframe></div>
