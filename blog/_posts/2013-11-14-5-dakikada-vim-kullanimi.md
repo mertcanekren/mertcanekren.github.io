@@ -1,0 +1,9 @@
+---
+layout: post
+title: 5 Dakikada Vim Kullanımı
+date: 2013-11-14 23:39
+author: mertcan
+comments: true
+categories: [Linux, sudo, vim]
+---
+Linux işletim sistemlerinde dosya içeriğinde bir değişiklik yapmak için kullanılabilecek araçlardan bir tanesi vim.<br /><br />Vim diğer araçlardan biraz daha farklı.&nbsp;Açıkçası&nbsp;5 dakikada öğrenilecek bir araç değil 5 dakikada sadece çok basit kullanılan kısımları öğrenebilirsiniz &nbsp;ki ben bunlardan bahsedeceğim bunu belirtmekte fayda var.<br /><br />ilk olarak vim kurmak için<br /><br /><span style="background-color: #cccccc; color: #444444;">sudo apt-get install vim</span><span style="background-color: white;">&nbsp;&nbsp;</span><br /><span style="background-color: white;"><br /></span>Kurulum yaptıktan sonra konsoldan hangi dosyayı düzenlemek isterseniz aşağıdaki komut ile düzenleyebilirsiniz.<br /><br /><span style="background-color: #cccccc; color: #444444;">vim /var/www/index.html</span><br /><span style="background-color: #cccccc; color: #444444;"><br /></span>Karşınıza konsol içinde dosyanın içeriği gelecektir. nano kullandıysanız görmüşsünüzdür.<br /><br />imleç hareketlerini isterseniz ok tuşlarıyla yada<br /><br />j ile aşağı<br />k ile yukarı<br />l ile sağ<br />h ile sol<br /><br />taraflarına kaydırabilirsiniz.<br /><br />dosyayı düzenlemek için i tuşuna bir kere basmanız gerekmektedir.<br />düzenleme bittikten sonra yapılacak işlemler<br /><br /><ul><li>dosyada işiniz bittiyse&nbsp;kaydedecek seniz klavyeden esc tuşuna basıp :wq &nbsp;&nbsp;</li><li>w : write (dosyayı yazmak için)</li><li>q: quit (çıkış)</li></ul>Eğer dosyayı kapatmadan sadece değişiklikleri kaydetmek isterseniz :w demek yeterli.<br /><ul></ul><br />arama yapmak için /aranacak olarak yazarsanız arama yapacaktır.( insert modundaysanız esc tuşuna basarak yazmanız gerekmektedir. )<br /><br />5 dakikada anca bu kadar :)

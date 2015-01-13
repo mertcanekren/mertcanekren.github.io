@@ -1,0 +1,32 @@
+# General Jekyll Config
+pygments: false
+url: http://mertcanekren.com/blog
+lsi: false
+exclude: [LICENSE, CNAME, README.md, .gitignore]
+
+# Theme customization - please change from the defaults!
+theme:
+  # Color for top bar, links, etc
+  highlight_color: '#3498db'
+
+  # Profile links on the left sidebar, leave blank to ignore
+  social:
+    github: mertcanekren
+    #bitbucket: 
+    hacker_news: 
+    #stackexchange: 
+    #stackoverflow: 
+    twitter: mertcanekren
+    facebook:
+    #tumblr: 
+    linkedin:
+    gplus: +MertcanEKREN
+
+  # "Hi, I'm _______"
+  name: Mertcan Ekren
+  email: mertcanekren@gmail.com
+  tagline: ""
+
+  # Google Analytics key, leave blank to ignore
+  google_analytics_key: UA-28576437-1
+
