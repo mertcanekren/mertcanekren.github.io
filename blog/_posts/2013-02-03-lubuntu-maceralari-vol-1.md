@@ -1,9 +1,0 @@
----
-layout: post
-title: Lubuntu Maceraları Vol.1
-date: 2013-02-03 13:31
-author: mertcan
-comments: true
-categories: [Linux, lubuntu]
----
-Daha önceden wubi ile bir kaç defa kullanmıştım. Çok hoşuma gitti ve hızlı çalışması ( windows'dan ) çekici bir hale getirdi.<br /><br />Artık iyice akullanmaya alıştıktan sonra kullandığım bilgisayarda ki Windows sürümünü silip sıfırdan Lubuntu kurdum. İlk olarak bir kaç özelleştirme ile önceden kullandığım gibi olan görünüme getiridim. Bir gerekli uygulama kurdum. Localde çalışmak için apache mysql php kurdum. Ama apache yapılandırırken biraz uğraştırdı. Wubi ile denediğimde önceden apache de böyle bir kaç sorunla karşılaşmamıştım. Hallettim onuda sıkıntı kalmadı.<br /><br /><div style="clear: both; text-align: center;"><a href="http://localhost:81/mew/wp-content/uploads/2013/02/2013-02-03-132628_1024x600_scrot.png" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="372" src="http://localhost:81/mew/wp-content/uploads/2013/02/2013-02-03-132628_1024x600_scrot-300x175.png" width="640" /></a></div><div style="clear: both; text-align: center;"><br /></div><div style="clear: both; text-align: left;">Dosya sistemi windows dosya sisteminden çok farlı. Ona alışmak biraz zaman alabiliyor.&nbsp;</div><div style="clear: both; text-align: left;">Açılış, kapanış ve uykuya geçiş süreleri harika. En az 3 kat daha hızlı diyebilirim.</div><div style="clear: both; text-align: left;">Touchpad den çift tıklama ile ilgili biraz yavaş kalıyor gibi geldi belkide biraz ayardan sonra halledilebilir.</div><div style="clear: both; text-align: left;">Pidgin ile neredeyse tüm sosyal hesaplarınızı bir yerden kontol edebiliyorsunuz.</div><div style="clear: both; text-align: left;"><br /></div><div style="clear: both; text-align: left;">Şimdilik ilk part için diyeceklerim bu kadar.</div><br />

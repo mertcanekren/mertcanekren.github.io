@@ -1,9 +1,0 @@
----
-layout: post
-title: USB Üzerinden Linux Kurma
-date: 2012-11-30 21:45
-author: mertcan
-comments: true
-categories: [creata usb bootable, kubuntu, kubuntu usb, Linux, linux bootable, lubuntu, lubuntu usb, releases.ubuntu, ubuntu, ubuntu usb, Universal USB Installer, usb bootable linux, xubuntu]
----
-<br />Cd-rom bulunmayan bilgisayarlar yada cd ile uğraşmayıp direk usb üzerinden kurmak isteyenler için geliştirilmiş bir araç Universal USB Installer.<br /><br />İlk olarak kurmak istediğiniz linux sürünümü <a href="http://releases.ubuntu.com/" target="_blank">releases.ubuntu.com</a> adresinden .iso dosyasını indirmeniz gerekmekte. Daha sonra <a href="http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/#button" target="_blank">www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3</a> Universal USB programını indirmeniz gerekmekte.<br /><br />İndirme işleminden sonra program size ilk olarak kurmak istediğiniz linux sürünümü seçtiriyor. Elinizde .iso dosyası olmadan da kurabilmeniz için isterseniz size seçtiğiniz sürümü kendi içinde indirme seçeneğide sunuyor. Aşağıda olan seçenekte size indirmiş olduğunuz iso dosyasını seçtiriyor. En son adım olarak usb belleğinizin yolunu seçtiriyor. <br /><br />Daha detaylı bir anlatım için : <a href="http://www.ubuntu.com/download/help/create-a-usb-stick-on-windows" target="_blank">www.ubuntu.com/download/help/create-a-usb-stick-on-windows</a><br /><br /><span style="font-size: x-small;">Not: Bu işlemleri yaparken usb belleğinizin içinde olan önemli dosyalarını almanız gerek. Bu işlemlerde usb belleğinizin için komple siliniyor. Adı PENDRIVE olarak yeniden adlandırılıyor. Linux kurarken yada recovery yaparken windows işletim sisteminizin yanına kuracaksanız eğer dikkatli olmanız gerek. Yanlış birimi biçimlendirmeyiniz. Yoksa tüm bilgileriniz uçar gider.&nbsp;</span><br /><br />
