@@ -3,7 +3,7 @@ title: Mertcan Ekren
 header-img: img/header-background.jpg
 email: mertcanekren@gmail.com
 description: "Web Developer"
-baseurl: /"blog"
+baseurl: "/blog"
 url: "http://mertcanekren.com"
 twitter_username: mertcanekren
 github_username:  mertcanekren
