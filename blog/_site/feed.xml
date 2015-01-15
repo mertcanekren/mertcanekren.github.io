@@ -3,10 +3,10 @@
   <channel>
     <title>Mertcan Ekren</title>
     <description>Web Developer</description>
-    <link>http://mertcanekren.com/blog/</link>
-    <atom:link href="http://mertcanekren.com/blog/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 14 Jan 2015 22:10:51 +0200</pubDate>
-    <lastBuildDate>Wed, 14 Jan 2015 22:10:51 +0200</lastBuildDate>
+    <link>http://mertcanekren.com//blog//</link>
+    <atom:link href="http://mertcanekren.com//blog//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 15 Jan 2015 07:46:45 +0000</pubDate>
+    <lastBuildDate>Thu, 15 Jan 2015 07:46:45 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -16,9 +16,9 @@
 &lt;p&gt; &lt;/p&gt;
 &lt;blockquote&gt;2015'in ilk günüden bir fotoğraf.&lt;/blockquote&gt;
 </description>
-        <pubDate>Thu, 01 Jan 2015 21:21:00 +0200</pubDate>
-        <link>http://mertcanekren.com/blog/2015/01/01/kar-ve-damlalar/</link>
-        <guid isPermaLink="true">http://mertcanekren.com/blog/2015/01/01/kar-ve-damlalar/</guid>
+        <pubDate>Thu, 01 Jan 2015 21:21:00 +0000</pubDate>
+        <link>http://mertcanekren.com//blog//2015/01/01/kar-ve-damlalar/</link>
+        <guid isPermaLink="true">http://mertcanekren.com//blog//2015/01/01/kar-ve-damlalar/</guid>
         
         
       </item>
@@ -29,9 +29,9 @@
 
 &lt;p&gt;&lt;span style=&quot;color: #808080;&quot;&gt;//The first day of the year will not be writing post :). 2015 healthy, happy, peaceful, would be a successful year.&lt;/span&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 01 Jan 2015 14:02:00 +0200</pubDate>
-        <link>http://mertcanekren.com/blog/2015/01/01/2015/</link>
-        <guid isPermaLink="true">http://mertcanekren.com/blog/2015/01/01/2015/</guid>
+        <pubDate>Thu, 01 Jan 2015 14:02:00 +0000</pubDate>
+        <link>http://mertcanekren.com//blog//2015/01/01/2015/</link>
+        <guid isPermaLink="true">http://mertcanekren.com//blog//2015/01/01/2015/</guid>
         
         
       </item>
@@ -52,9 +52,9 @@
 
 &lt;p&gt; &lt;/p&gt;
 </description>
-        <pubDate>Thu, 18 Dec 2014 00:51:00 +0200</pubDate>
-        <link>http://mertcanekren.com/blog/2014/12/18/wow-js-animate-css/</link>
-        <guid isPermaLink="true">http://mertcanekren.com/blog/2014/12/18/wow-js-animate-css/</guid>
+        <pubDate>Thu, 18 Dec 2014 00:51:00 +0000</pubDate>
+        <link>http://mertcanekren.com//blog//2014/12/18/wow-js-animate-css/</link>
+        <guid isPermaLink="true">http://mertcanekren.com//blog//2014/12/18/wow-js-animate-css/</guid>
         
         
       </item>
@@ -67,9 +67,9 @@
 
 &lt;p&gt; &lt;/p&gt;
 </description>
-        <pubDate>Tue, 16 Dec 2014 23:15:00 +0200</pubDate>
-        <link>http://mertcanekren.com/blog/2014/12/16/spotify-year-in-music-2014/</link>
-        <guid isPermaLink="true">http://mertcanekren.com/blog/2014/12/16/spotify-year-in-music-2014/</guid>
+        <pubDate>Tue, 16 Dec 2014 23:15:00 +0000</pubDate>
+        <link>http://mertcanekren.com//blog//2014/12/16/spotify-year-in-music-2014/</link>
+        <guid isPermaLink="true">http://mertcanekren.com//blog//2014/12/16/spotify-year-in-music-2014/</guid>
         
         
       </item>
@@ -78,9 +78,9 @@
         <title>Tapatalk &quot;didn't receive 200 ok from remote server&quot; hatası</title>
         <description>&lt;p&gt;Geçenlerde PHPBB kurulu olan forum sitesine Tapatalk kurdum. Kurulum sitede yer alan &lt;a href=&quot;https://tapatalk.com/activate_tapatalk.php?plugin=phpbb&quot; target=&quot;_blank&quot;&gt;dokümantasyon&lt;/a&gt; göre sıkıntısız kuruldu. Tapatalk aktif olarak çalışması için kendi sitesi üzerinden api key oluşturdum ve aktif olması için hesabı ekledim. Fakat tüm url, plugin kurulumu tam olmasına rağmen tam aktif olacağı sırada “didn’t receive 200 ok from remote server” hatası ile tapatalk üzerinden aktif edemiyordu. Kendi forum sitelerinde olan düzenlemeler url forum url yönlendirmesinden kaynaklanır gibi bir kaç post ile karşılaştım. Benim kurduğum forumda yönlendirme ile ilgili bir işlem bulunmuyordu. Plugin kurulduğu klasöre (mobiquo) 755 iznini vererek çözdüm.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 20 Nov 2014 00:00:00 +0200</pubDate>
-        <link>http://mertcanekren.com/blog/2014/11/20/tapatalk-didnt-receive-200-ok-from-remote-server-hatasi/</link>
-        <guid isPermaLink="true">http://mertcanekren.com/blog/2014/11/20/tapatalk-didnt-receive-200-ok-from-remote-server-hatasi/</guid>
+        <pubDate>Thu, 20 Nov 2014 00:00:00 +0000</pubDate>
+        <link>http://mertcanekren.com//blog//2014/11/20/tapatalk-didnt-receive-200-ok-from-remote-server-hatasi/</link>
+        <guid isPermaLink="true">http://mertcanekren.com//blog//2014/11/20/tapatalk-didnt-receive-200-ok-from-remote-server-hatasi/</guid>
         
         
       </item>
@@ -89,9 +89,9 @@
         <title>ASTR - Operate (The Chainsmokers Remix)</title>
         <description>&lt;iframe allowfullscreen=&quot;&quot; frameborder=&quot;0&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/DCVvuOOZ-W0?rel=0&quot; width=&quot;560&quot;&gt;&lt;/iframe&gt;
 </description>
-        <pubDate>Sat, 15 Nov 2014 17:54:00 +0200</pubDate>
-        <link>http://mertcanekren.com/blog/2014/11/15/astr-operate-the-chainsmokers-remix/</link>
-        <guid isPermaLink="true">http://mertcanekren.com/blog/2014/11/15/astr-operate-the-chainsmokers-remix/</guid>
+        <pubDate>Sat, 15 Nov 2014 17:54:00 +0000</pubDate>
+        <link>http://mertcanekren.com//blog//2014/11/15/astr-operate-the-chainsmokers-remix/</link>
+        <guid isPermaLink="true">http://mertcanekren.com//blog//2014/11/15/astr-operate-the-chainsmokers-remix/</guid>
         
         
       </item>
@@ -105,9 +105,9 @@
 
 &lt;p&gt;&lt;span style=&quot;font-size: x-small;&quot;&gt;Görsel kaynak: http://techvisionblog.in/&lt;/span&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 09 Oct 2014 20:24:00 +0300</pubDate>
-        <link>http://mertcanekren.com/blog/2014/10/09/ubuntu-mouse-tekerlegi-hizi/</link>
-        <guid isPermaLink="true">http://mertcanekren.com/blog/2014/10/09/ubuntu-mouse-tekerlegi-hizi/</guid>
+        <pubDate>Thu, 09 Oct 2014 20:24:00 +0000</pubDate>
+        <link>http://mertcanekren.com//blog//2014/10/09/ubuntu-mouse-tekerlegi-hizi/</link>
+        <guid isPermaLink="true">http://mertcanekren.com//blog//2014/10/09/ubuntu-mouse-tekerlegi-hizi/</guid>
         
         
       </item>
@@ -117,9 +117,9 @@
         <description>&lt;div style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a style=&quot;margin-left: 1em; margin-right: 1em;&quot; href=&quot;http://www.mertcanekren.com/blog/wp-content/uploads/2014/10/kurban-bayram-C4-B1.jpg&quot;&gt;&lt;img src=&quot;http://www.mertcanekren.com/blog/wp-content/uploads/2014/10/kurban-bayram-C4-B1.jpg&quot; alt=&quot;&quot; width=&quot;400&quot; height=&quot;266&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
 &lt;p&gt; &lt;/p&gt;
 </description>
-        <pubDate>Sat, 04 Oct 2014 10:45:00 +0300</pubDate>
-        <link>http://mertcanekren.com/blog/2014/10/04/iyi-bayramlar/</link>
-        <guid isPermaLink="true">http://mertcanekren.com/blog/2014/10/04/iyi-bayramlar/</guid>
+        <pubDate>Sat, 04 Oct 2014 10:45:00 +0000</pubDate>
+        <link>http://mertcanekren.com//blog//2014/10/04/iyi-bayramlar/</link>
+        <guid isPermaLink="true">http://mertcanekren.com//blog//2014/10/04/iyi-bayramlar/</guid>
         
         
       </item>
@@ -145,9 +145,9 @@
 &lt;div style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a style=&quot;margin-left: 1em; margin-right: 1em;&quot; href=&quot;http://www.mertcanekren.com/blog/wp-content/uploads/2014/07/IMG_3753.jpg&quot;&gt;&lt;img src=&quot;http://www.mertcanekren.com/blog/wp-content/uploads/2014/07/IMG_3753.jpg&quot; alt=&quot;&quot; width=&quot;640&quot; height=&quot;480&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
 &lt;div style=&quot;clear: both; text-align: center;&quot;&gt;&lt;a style=&quot;margin-left: 1em; margin-right: 1em;&quot; href=&quot;http://www.mertcanekren.com/blog/wp-content/uploads/2014/07/IMG_3755.jpg&quot;&gt;&lt;img src=&quot;http://www.mertcanekren.com/blog/wp-content/uploads/2014/07/IMG_3755.jpg&quot; alt=&quot;&quot; width=&quot;640&quot; height=&quot;480&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
 </description>
-        <pubDate>Mon, 21 Jul 2014 22:16:00 +0300</pubDate>
-        <link>http://mertcanekren.com/blog/2014/07/21/bursaspor-chikhura-sachkhere/</link>
-        <guid isPermaLink="true">http://mertcanekren.com/blog/2014/07/21/bursaspor-chikhura-sachkhere/</guid>
+        <pubDate>Mon, 21 Jul 2014 22:16:00 +0000</pubDate>
+        <link>http://mertcanekren.com//blog//2014/07/21/bursaspor-chikhura-sachkhere/</link>
+        <guid isPermaLink="true">http://mertcanekren.com//blog//2014/07/21/bursaspor-chikhura-sachkhere/</guid>
         
         
       </item>
@@ -156,9 +156,9 @@
         <title>Summer</title>
         <description>&lt;div style=&quot;clear: both;&quot;&gt;&lt;a style=&quot;margin-left: 1em; margin-right: 1em;&quot; href=&quot;http://www.mertcanekren.com/blog/wp-content/uploads/2014/07/blogger-image-107068721.jpg&quot;&gt;&lt;img class=&quot;&quot; src=&quot;http://www.mertcanekren.com/blog/wp-content/uploads/2014/07/blogger-image-107068721.jpg&quot; alt=&quot;&quot; width=&quot;518&quot; height=&quot;518&quot; border=&quot;0&quot; /&gt;&lt;/a&gt;&lt;/div&gt;
 </description>
-        <pubDate>Mon, 14 Jul 2014 11:05:00 +0300</pubDate>
-        <link>http://mertcanekren.com/blog/2014/07/14/summer/</link>
-        <guid isPermaLink="true">http://mertcanekren.com/blog/2014/07/14/summer/</guid>
+        <pubDate>Mon, 14 Jul 2014 11:05:00 +0000</pubDate>
+        <link>http://mertcanekren.com//blog//2014/07/14/summer/</link>
+        <guid isPermaLink="true">http://mertcanekren.com//blog//2014/07/14/summer/</guid>
         
         
       </item>
