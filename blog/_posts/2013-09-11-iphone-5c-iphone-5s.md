@@ -1,9 +1,0 @@
----
-layout: post
-title: iPhone 5C & iPhone 5S
-date: 2013-09-11 20:32
-author: mertcan
-comments: true
-categories: [apple, Blog, ios7, iphone, iphone 5c, iphone 5s]
----
-Dün Apple'ın gerçekleştirdiği lansman ile tanıttığı iki yeni model sosyal medya üzerinde bu gün oldukça konuşuldu. İki yeni modelin en çok dikkat çekeni şüphesiz 5S dir. Bence 5 ile arasında o kadar fazla bir fark yok.<br /><br /><div style="clear: both; text-align: center;"><a href="http://localhost:81/mew/wp-content/uploads/2013/09/ios-7.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="206" src="http://localhost:81/mew/wp-content/uploads/2013/09/ios-7-300x193.jpg" width="320" /></a></div><br /><br />5S in dikkat çeken özelliklerinden biri <a href="http://www.apple.com/iphone-5s/videos/#video-touch" target="_blank">Touch ID</a>. Kullanıcının parmak izini okuyarak kullanıcının yeni uygulamalar indirirken Apple kimlik şifresi yazması yerine parmağını okutması yetiyor. Benim 5S için anlatıcaklarım bu kadar. Beni daha heycanlandıran 5C.<br /><br /><br /><div style="clear: both; text-align: center;"><a href="http://localhost:81/mew/wp-content/uploads/2013/09/color_blue_none_ipad_l-1-.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="278" src="http://localhost:81/mew/wp-content/uploads/2013/09/color_blue_none_ipad_l-1--300x261.jpg" width="320" /></a></div><div style="clear: both; text-align: center;"><br /></div><div style="clear: both; text-align: left;">Apple ucuz iPhone olarak sunduğu ama Türkiye'de fiyatının pek ucuz olmayacağını düşündüğüm telefon. Dışı plastik ve bir kaç tane alternatif olarak renk seçeneği mevcut. Özellikleri 5 ile aynı sanırım. Açıkcası bana 5S dense 5C daha çekici geliyor.</div><div style="clear: both; text-align: left;"><br /></div><br /><br /><br />
