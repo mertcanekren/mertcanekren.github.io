@@ -810,4 +810,17 @@ properly.
    height:420px;
 }
 
+.custom-portfolio{
+   background-color: #E8E8E8;
+   padding: 20px;
+   border: 1px solid #D0D0D0;
+   color: #797979;
+}
+
+.portfolio-item{
+   padding: 0 10px!important;
+}
+#portfolio-wrapper .columns{
+   margin-bottom: 30px!important
+}
 .clear{clear: both;}
