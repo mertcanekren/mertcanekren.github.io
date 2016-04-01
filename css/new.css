@@ -1,0 +1,84 @@
+body{
+	font-family: 'Lato', sans-serif;
+}
+.main{
+	text-align: center;
+}
+.content{
+	padding-top: 10%
+}
+.content img{
+	border-radius: 50%;
+	height: 120px;
+}
+.clear{
+	clear:both;
+}
+h1{
+	font-size:35px;
+	color:#444;
+	font-weight: 200
+}
+p{
+	font-size:23px;
+	font-weight: 200;
+    color: #666;
+}
+p > a{
+	color:#444;
+	text-decoration: none;
+}
+p > a:hover{
+	text-decoration: underline;
+}
+.social{
+	list-style-type: none;
+}
+.social li{
+	margin: 0;
+    padding: 0;
+    display: inline-block;
+}
+ .social li a{
+    display: block;
+    padding: 0 10px;
+    font-size:24px;
+    color: #ccc;
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+.social li.facebook a:hover {
+    color: #3b5998;
+}
+.social li.twitter a:hover {
+    color: #55acee;
+}
+.social li.linkedin a:hover {
+    color: #0077b5;
+}
+.social li.github a:hover {
+    color: #000;
+}
+.social li.instagram a:hover {
+    color: #125688;
+}
+.social li.email a:hover {
+    color: #333;
+}
+.social li.blog a:hover {
+    color: #ff6600;
+}
+@media (max-width: 568px){
+    h1{
+        font-size: 35px;
+    }
+    p{
+        font-size: 20px;
+    }
+    .main{
+        padding:10% 8% 0;
+    }
+ 	.social{
+ 		padding-left: 0
+ 	}   
+}
