@@ -2,10 +2,10 @@ body{
 	font-family: 'Lato', sans-serif;
 }
 .main{
-	text-align: center;
+	text-align: left;
 }
 .content{
-	padding-top: 10%
+    padding-left: 3%
 }
 .content img{
 	border-radius: 50%;
@@ -33,19 +33,22 @@ p > a:hover{
 }
 .social{
 	list-style-type: none;
+    width: 40%;
+    padding-left: 0px;
+    margin-left: -7px
 }
 .social li{
-	margin: 0;
+	margin: 0 0 5px 0 ;
     padding: 0;
-    display: inline-block;
 }
  .social li a{
     display: block;
     padding: 0 10px;
-    font-size:24px;
+    font-size:18px;
     color: #ccc;
     -webkit-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
+    text-decoration: none
 }
 .social li.facebook a:hover {
     color: #3b5998;
