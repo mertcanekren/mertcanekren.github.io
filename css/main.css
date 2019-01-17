@@ -327,11 +327,11 @@ img {
 .feedback-block .about-tittle {
   float: left;
   margin-right: 10px;
-  padding-left: 70px; }
+  /*padding-left: 70px;*/ }
 
 .feedback-block .about-info {
   padding: 2px  0;
-  padding-left: 70px;
+  /*padding-left: 70px;*/
   opacity: 0.8; }
 
 .feedback-block .feedback-image {
@@ -344,7 +344,7 @@ img {
 .feedback-block .opacity-box {
   margin-top: 10px;
   font-style: italic;
-  padding-left: 70px; }
+  /*padding-left: 70px;*/ }
 
 .right-box > .row:last-child .about-row, .right-box > .row:last-child .about-date {
   margin-bottom: 0; }
